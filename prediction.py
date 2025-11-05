@@ -83,7 +83,7 @@ def show():
                         <div style="display: flex; align-items: center; gap: 15px;">
                             <div style="font-size: 3rem;">{emoji}</div>
                             <div>
-                                <h2 style="margin: 0; color: {color};">Engagement Score: {engagement_score:.2f}</h2>
+                                <h2 style="margin: 0; color: {color};">Sentiment Score: {engagement_score:.2f}</h2>
                                 <p style="margin: 5px 0 0 0;">Machine Learning Prediction Complete</p>
                             </div>
                         </div>
